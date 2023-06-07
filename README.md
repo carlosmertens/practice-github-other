@@ -24,6 +24,12 @@ Here is an image from internal folders [images](/images/):
 
 Photo provided by [Unplash](https://unsplash.com/)
 
+### Emojis
+
+😄
+💙
+👀
+
 ### GitHub Markdown
 
 ---
